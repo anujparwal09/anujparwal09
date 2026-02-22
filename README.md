@@ -117,9 +117,7 @@ Fun Fact : Built AI for 38+ crop categories and
 
 ---
 
-## 📊 GitHub Stats
-
-> ✅ All stats auto-update with every commit & contribution — no manual refresh needed!
+## GitHub Stats
 
 <div align="center">
 
