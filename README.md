@@ -44,7 +44,7 @@ Working  : AI-powered apps & ML pipelines
 Learning : System Design, DSA & Cloud Deployment
 Ask me   : React, Next.js, Flask, FastAPI, Python
 Fun Fact : Built AI for 38+ crop categories and
-           a Web3 fraud detector — as a 2nd year!
+           a Web3 fraud detector !!
 ```
 
 <br/>
