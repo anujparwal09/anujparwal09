@@ -151,14 +151,14 @@ Fun Fact : Built AI for 38+ crop categories and
 ## 🐍 Contribution Snake Animation
 
 <div align="center">
-</details>
-
-<br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anujparwal09/anujparwal09/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anujparwal09/anujparwal09/output/github-contribution-grid-snake.svg" />
-  <img alt="🐍 Snake eating my contributions" src="https://raw.githubusercontent.com/anujparwal09/anujparwal09/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://raw.githubusercontent.com/anujparwal09/anujparwal09/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" 
+          srcset="https://raw.githubusercontent.com/anujparwal09/anujparwal09/output/snake.svg" />
+  <img alt="Snake eating my contributions" 
+       src="https://raw.githubusercontent.com/anujparwal09/anujparwal09/output/snake-dark.svg" />
 </picture>
 
 </div>
