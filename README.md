@@ -33,7 +33,7 @@
 ```yaml
 Name     : Anuj Parwal
 College  : RCOEM Nagpur — B.Tech CSAI(ML)
-Year     : 2023 – 2027  (2nd Year)
+Year     : 2023 – 2027 (3rd Year)
 CGPA     : 8.22 / 10
 Location : Nagpur, Maharashtra, India
 
