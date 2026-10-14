@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=7928CA&center=true&vCenter=true&width=750&height=60&lines=Hey+there!+I'm+Anuj+Parwal+%F0%9F%91%8B;Full+Stack+Dev+%7C+AI%2FML+Engineer+%F0%9F%A4%96;Building+AI+that+protects+farms+%F0%9F%8C%BE;Detecting+Web3+Fraud+with+97%25+Accuracy+%F0%9F%9B%A1%EF%B8%8F;LeetCode+Rated+%7C+400%2B+Problems+Solved+%F0%9F%94%A5;ACM+Secretary+%7C+Hackathon+Finalist+%F0%9F%8F%86)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=7928CA&center=true&vCenter=true&width=750&height=60&lines=Hey+there!+I'm+Anuj+Parwal+%F0%9F%91%8B;Full+Stack+Dev+%7C+AI%2FML+Engineer+%F0%9F%A4%96;Patent+Filed%3A+AI+%2B+AR+Carbon+Credit+Verification+%F0%9F%8C%8D;Detecting+Web3+Fraud+with+97%25+Accuracy+%F0%9F%9B%A1%EF%B8%8F;LeetCode+Rated+%7C+400%2B+Problems+Solved+%F0%9F%94%A5;ACM+Secretary+%7C+Hackathon+Finalist+%F0%9F%8F%86)](https://git.io/typing-svg)
 
 </div>
 
@@ -33,8 +33,8 @@
 ```yaml
 Name     : Anuj Parwal
 College  : RCOEM Nagpur — B.Tech CSAI(ML)
-Year     : 2023 – 2027 (3rd Year)
-CGPA     : 8.22 / 10
+Year     : 2023 – 2027 (4th Year)
+CGPA     : 8.49 / 10
 Location : Nagpur, Maharashtra, India
 
 Role     : Full Stack Developer & AI/ML Engineer
@@ -43,8 +43,8 @@ Title    : ACM Secretary | Hackathon Finalist
 Working  : AI-powered apps & ML pipelines
 Learning : System Design, DSA & Cloud Deployment
 Ask me   : React, Next.js, Flask, FastAPI, Python
-Fun Fact : Built AI for 38+ crop categories and
-           a Web3 fraud detector !!
+Fun Fact : Built a Web3 fraud detector (97%+ accuracy)
+           & an AR carbon-credit verifier — patent filed!
 ```
 
 <br/>
@@ -54,7 +54,7 @@ Fun Fact : Built AI for 38+ crop categories and
 - 🌱 Currently learning **System Design, Advanced DSA & Cloud Deployment**
 - 💬 Ask me about **React, Next.js, Flask, FastAPI, Python, or anything Full-Stack**
 - 🏆 **ACM Student Chapter Secretary** | **BLOCKDAG'25 Hackathon Finalist**
-- ⚡ Fun fact: **Built an AI protecting 38+ crop types + Web3 fraud detector — still a 2nd year student!**
+- ⚡ Fun fact: **Built a Web3 fraud detector (97%+ accuracy) & an AR carbon-credit verifier — patent filed!**
 
 <br clear="right"/>
 
@@ -103,44 +103,26 @@ Fun Fact : Built AI for 38+ crop categories and
 
 ---
 
-## 🏅 Competitive Programming
-
-<div align="center">
-
-| Platform | Rating | Problems Solved |
-|:-:|:-:|:-:|
-| 🟡 **LeetCode** | **Rated** | **209 solved** |
-| ⭐ **CodeChef** | **2 Star (1440)** | Active Competitor |
-| 🔢 **Total** | — | **400+ across all platforms** |
-
-</div>
-
----
-
 ## GitHub Stats
 
 <div align="center">
 
+<!--
+  FIX: the old host (github-readme-stats-sigma-five.vercel.app) ran out of GitHub API quota.
+  If the cards below ever show the same error, deploy your own copy (see steps in chat)
+  and replace "github-readme-stats.vercel.app" with YOUR-PROJECT.vercel.app in the 2 URLs.
+-->
+
 <a href="https://github.com/anujparwal09">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anujparwal09&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&card_width=400"/>
-  <img height="180em" src="https://github-readme-streak-stats-eight.vercel.app?user=anujparwal09&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&starting_year=2023"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anujparwal09&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&card_width=400&cache_seconds=86400"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=anujparwal09&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&starting_year=2023"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/anujparwal09">
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anujparwal09&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&langs_count=8"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujparwal09&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"/>
 </a>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Anuj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anujparwal09&theme=tokyo-night&hide_border=true&area=true&custom_title=Anuj%27s%20Contribution%20Graph%20%28All%20Time%29)](https://github.com/anujparwal09)
 
 </div>
 
@@ -151,11 +133,11 @@ Fun Fact : Built AI for 38+ crop categories and
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" 
+  <source media="(prefers-color-scheme: dark)"
           srcset="https://raw.githubusercontent.com/anujparwal09/anujparwal09/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" 
+  <source media="(prefers-color-scheme: light)"
           srcset="https://raw.githubusercontent.com/anujparwal09/anujparwal09/output/snake.svg" />
-  <img alt="Snake eating my contributions" 
+  <img alt="Snake eating my contributions"
        src="https://raw.githubusercontent.com/anujparwal09/anujparwal09/output/snake-dark.svg" />
 </picture>
 
@@ -166,10 +148,6 @@ Fun Fact : Built AI for 38+ crop categories and
 <div align="center">
 
 ### 💜 Thanks for stopping by — drop a ⭐ if you found something useful!
-
-<img src="https://komarev.com/ghpvc/?username=anujparwal09&label=Profile+Views&color=7928CA&style=for-the-badge" alt="Profile Views" />
-
-<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,100:7928CA&height=130&section=footer"/>
 
